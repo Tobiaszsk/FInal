@@ -1,0 +1,9 @@
+﻿tier,spend
+tier1,"{'bing': 300, 'display': 12, 'facebook': 9000, 'search': 13000, 'youtube': 90}"
+tier2,"{'bing': 400, 'display': 13, 'facebook': 10500, 'search': 18500, 'youtube': 100}"
+tier3,"{'bing': 900, 'display': 19, 'facebook': 11000, 'search': 19000, 'youtube': 130}"
+tier4,"{'bing': 1000, 'display': 20, 'facebook': 13000, 'search': 24000, 'youtube': 180}"
+tier5,"{'bing': 1100, 'display': 29, 'facebook': 14000, 'search': 25000, 'youtube': 550}"
+tier6,"{'bing': 1300, 'display': 31, 'facebook': 16000, 'search': 38000, 'youtube': 900}"
+tier7,"{'bing': 2100, 'display': 94, 'facebook': 17000, 'search': 41000, 'youtube': 2420}"
+tier8,"{'bing': 3700, 'display': 148, 'facebook': 23000, 'search': 44000, 'youtube': 4360}"
